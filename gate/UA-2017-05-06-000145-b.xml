@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tender>
+	<name>Придбання ноутбука</name>
+	<description>Придбання портативного комп’ютера (ноутбук) марки Asus, Dell або Hewlet Packard</description>
+	<documentation>
+		1.	Процесор – Intel  Core, Intel  Pentium, AMD A6 (перевага надається процесору Intel  Core )
+		2.	Діагональ екрану – 15.6
+		3.	Об’єм оперативної пам’яті – 4 ГБ і більше
+		4.	Операційна система - Windows
+		5.	Оптичний привід – CD/DVD
+		6.	Разъемы и порты ввода-вывода: USB / HDMI / LAN (RJ-45) / комбинированный аудиоразъем для наушников		
+	</documentation>
+</tender>
